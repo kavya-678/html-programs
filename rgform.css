@@ -1,0 +1,14 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: justify;
+    color:rgb(26, 6, 6);
+    background-color: aquamarine;
+    text-align: left;
+    background-image: url(https://images.unsplash.com/photo-1602418013963-c1f017b3bb63?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmVhdXRpZnVsJTIwY2F0fGVufDB8fDB8fHww);
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover                             ;
+}
